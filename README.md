@@ -1,3 +1,15 @@
+<div align = "center">
+<!--welcoming sign-->
+<h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=539bf5&center=true&vCenter=true&width=435&lines=I'm+Aulia;" alt="Typing SVG"/>
+    </h1>
+
+<!--gif-->
+<p>
+    <img src="https://i.giphy.com/ule4vhcY1xEKQ.gif" alt="cat gammer" />
+</p>    
+
 # 💫 About Me:
 jajajajajaja
 
@@ -23,5 +35,7 @@ jajajajajaja
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vaulmond&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
